@@ -1,0 +1,7 @@
+{
+  "extends": "eslint:recommended",
+  "env": {
+    "shared-node-browser": true,
+    "es6": true
+  }
+}
